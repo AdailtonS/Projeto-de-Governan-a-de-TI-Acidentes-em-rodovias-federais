@@ -1,7 +1,7 @@
 # Projeto Projeto de Governança de TI
 
 * Universidade nove de julho
-* Sistemas de Informaçãp
+* Sistemas de Informação
 
 
 

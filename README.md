@@ -14,13 +14,14 @@
 
 ## Professor
 
-Prof. Edson M. de Souza
+Prof. Edson Melo de Souza
 
 ```
 I'm a College Professor and Researcher at Universidade Nove de Julho - UNINOVE located in São Paulo - Brazil.
 I teach undergraduate courses in Algorithms, Data Structures, Java, Python, PHP, C/C#, Mobile, Node.js and Data Science.
 Disponível em: https://github.com/EdsonMSouza
 ```
+Adriano Michelotti Schroeder
 
 ## Conteúdo:
 
